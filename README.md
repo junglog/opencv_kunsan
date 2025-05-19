@@ -1,2 +1,1 @@
-# opencv_kunsan
-25-1 opencv python project 
+군산대 임베디드 소프트웨어 3학년 25학년 1학기 컴퓨터 비전 기말 프로젝트 2조
